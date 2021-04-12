@@ -21,14 +21,14 @@
 		"playerBioInfo": {
 			"countries": {
 				"USA": {
-					"fractionSkipCollege": 0.98
+					"fractionSkipCollege": 0.90
 				}
 			},
 			"frequencies": {
-				"Australia": 10,
+				"Australia": 8,
 				"New Zealand": 1,
-				"Papua New Guinea": 2,
-				"Samoa": 2
+				"United States": 4,
+				"Samoa": 1
 			}
 		}
 	},
